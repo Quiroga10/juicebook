@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/btn_style.xml" value="0.337037037037037" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_contrasena.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_usuario.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/menu_imagen.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/side_nav_bar.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/splash_background.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/style.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/style1.xml" value="0.19375" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/style2.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/style_ingresar.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/style_inicio.xml" value="0.3" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/activity_splashscreen2.xml" value="0.26842105263157895" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/content_navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/dasboard_activity.xml" value="0.3885542168674699" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/dashboard_activity.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/elemento.xml" value="0.2758152173913043" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/elementos.xml" value="0.25" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/estractos_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_home.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_inicio.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_slideshow.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/gym_activity.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home_activity.xml" value="0.25" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home_fragment.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugos_card.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugos_casa_activity.xml" value="0.25" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/licuadoverde_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/menu.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/registrar.xml" value="0.18" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/registrar_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/salud_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/videos_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/menu/activity_main_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/menu/navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/menu/toolbar_menu.xml" value="0.28289473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1743659420289855" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
