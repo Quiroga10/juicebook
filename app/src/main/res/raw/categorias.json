@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id":"1",
     "category": "1",
     "title": "Jugo de Remolacha",
     "url":"https://miradorsalud.com/wp-content/uploads/2015/01/JUGO-REMOLACHA-Y-OXIDO-NITRICO-2.jpg",
@@ -8,7 +8,7 @@
   },
 
   {
-    "id": "2",
+    "id":"2",
     "category": "1",
     "title": "Jugo de pepino y naranja",
     "url": "https://www.noticieros.live/noticias/wp-content/uploads/2021/08/jugo-pepino-1280x720.jpg",
@@ -16,7 +16,7 @@
   },
 
   {
-    "id": "3",
+    "id":"3",
     "category": "2",
     "title": "Jugo verde con arándanos",
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh-cBVPR7LGP3CWkLbBlg6yDJSPClUKgCgw&usqp=CAU",
@@ -24,7 +24,7 @@
   },
 
   {
-    "id":"4",
+    "id":"3",
     "category": "3",
     "title": "Jugo col y naranja",
     "url": "https://joseabrahim.files.wordpress.com/2016/07/espi-nar-300x291.jpg?w=640",
@@ -32,7 +32,7 @@
   },
 
   {
-    "id": "5",
+    "id":"4",
     "category": "3",
     "title": "Jugo espinaca y manzana verde",
     "url": "https://previews.123rf.com/images/iuliian/iuliian1508/iuliian150800640/44294683-licuado-saludable-con-manzana-verde-espinaca-lim%C3%B3n-y-leche-de-coco.jpg",

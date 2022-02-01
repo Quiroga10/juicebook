@@ -34,12 +34,12 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/txtLicuado"
+                    android:id="@+id/txtJugoSalud"
                     android:layout_width="336dp"
                     android:layout_height="67dp"
                     android:layout_marginLeft="5dp"
 
-                    android:text="Licuado Verde"
+                    android:text="Jugos salud"
                     android:textColor="@color/black"
                     android:textSize="28sp"
                     tools:ignore="MissingConstraints"
@@ -47,7 +47,7 @@
                     tools:layout_editor_absoluteY="125dp" />
 
                 <com.android.volley.toolbox.NetworkImageView
-                    android:id="@+id/imageView"
+                    android:id="@+id/imageView1"
                     android:layout_width="343dp"
                     android:layout_height="275dp"
                     android:src="@drawable/jugo_verde" />

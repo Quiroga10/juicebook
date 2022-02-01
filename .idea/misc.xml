@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/background_shape.xml" value="0.3" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/btn_style.xml" value="0.337037037037037" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_contrasena.xml" value="0.3" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3" />
@@ -32,20 +33,23 @@
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_home.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_inicio.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/fragment_slideshow.xml" value="0.28289473684210525" />
-        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/gym_activity.xml" value="0.33" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/gym_activity.xml" value="0.25" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home.xml" value="0.33" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home_activity.xml" value="0.25" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/home_fragment.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugo_card.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugos_card.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugos_casa_activity.xml" value="0.25" />
-        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/licuadoverde_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/jugosalud_activity.xml" value="0.1" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/licuadoverde_activity.xml" value="0.1" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/login.xml" value="0.1" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/login_activity.xml" value="0.25" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/menu.xml" value="0.33" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/nutricionista_activity.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/registrar.xml" value="0.18" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/registrar_activity.xml" value="0.28289473684210525" />
-        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/salud_activity.xml" value="0.28289473684210525" />
+        <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/salud_activity.xml" value="0.22" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/layout/videos_activity.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/menu/activity_main_drawer.xml" value="0.28289473684210525" />
         <entry key="..\:/5to ciclo/D.APP.MOVILES 1/Proyecto_Final/app/src/main/res/menu/navigation_drawer.xml" value="0.28289473684210525" />

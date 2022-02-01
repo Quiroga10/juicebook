@@ -3,9 +3,9 @@
     <string name="title_activity_splashscreen">SplashscreenActivity</string>
     <string name="buttonIngresar">Iniciar Sesion</string>
     <string name="buttonRegistrar">Registrate</string>
-    <string name="user">Correo</string>
+    <string name="user">correo</string>
     <string name="password">contraseña</string>
-    <string name="password2">Repetir contraseña</string>
+    <string name="password2">repetir contraseña</string>
     <string name="ingresar">INGRESAR</string>
     <string name="registrar">Registrar</string>
     <string name="olvido_contrasena">¿Se te olvido la contraseña? Click aquí</string>
